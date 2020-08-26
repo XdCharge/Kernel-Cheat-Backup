@@ -1,0 +1,17 @@
+﻿  Overlay.cpp
+C:\Users\22djp\Desktop\NvidiaJank\Overlay\Overlay.cpp(289,14): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+C:\Users\22djp\Desktop\NvidiaJank\Overlay\Overlay.cpp(290,14): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+C:\Users\22djp\Desktop\NvidiaJank\Overlay\Overlay.cpp(509,94): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+C:\Users\22djp\Desktop\NvidiaJank\Overlay\Overlay.cpp(517,94): warning C4267: 'argument': conversion from 'size_t' to 'INT', possible loss of data
+C:\Users\22djp\Desktop\NvidiaJank\Overlay\Overlay.cpp(543,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\22djp\Desktop\NvidiaJank\Overlay\Overlay.cpp(544,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\22djp\Desktop\NvidiaJank\Overlay\Overlay.cpp(545,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\22djp\Desktop\NvidiaJank\Overlay\Overlay.cpp(591,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\22djp\Desktop\NvidiaJank\Overlay\Overlay.cpp(591,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\22djp\Desktop\NvidiaJank\Overlay\Overlay.cpp(591,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  28 of 230 functions (12.2%) were compiled, the rest were copied from previous compilation.
+    12 functions were new in current compilation
+    32 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Overlay.vcxproj -> C:\Users\22djp\Desktop\NvidiaJank\x64\Release\Overlay.exe

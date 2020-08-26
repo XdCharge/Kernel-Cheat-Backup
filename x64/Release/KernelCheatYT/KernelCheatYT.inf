@@ -8,7 +8,7 @@ Class=Sample ; TODO: edit Class
 ClassGuid={78A1C341-4539-11d3-B88D-00C04FAD5171} ; TODO: edit ClassGuid
 Provider=%ManufacturerName%
 CatalogFile=KernelCheatYT.cat
-DriverVer = 08/20/2020,15.13.24.625
+DriverVer = 08/24/2020,12.44.36.497
 
 [DestinationDirs]
 DefaultDestDir = 12
